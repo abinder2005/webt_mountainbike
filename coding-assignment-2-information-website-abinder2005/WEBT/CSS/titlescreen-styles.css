@@ -1,0 +1,53 @@
+#upperBox {
+    width: 500px; /*1911*/
+    height: 900px; /*100*/
+    margin-left: -9px;
+    margin-right: -9px;
+    border: 5px outset darkgray;
+    background-color: gray;    
+    text-align: center;
+    opacity: 0.9;
+}
+body {
+    background-image: url("../pictures/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+ul {
+    font-size: x-large;
+}
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: violet;
+}
+a:hover{
+    color: lightblue;
+}
+
+.tooltip {
+    position: relative;
+  }
+  
+  .tooltip span[role=tooltip] {
+    display: none;
+  }
+  
+  .tooltip:hover span[role=tooltip] {
+    display: block;  
+    position: absolute; 
+    bottom: 2em;
+    left: -6em;
+    width: 15em;
+    padding: 0.5em;
+    z-index: 100;
+    color: #000; 
+    background-color: #CEF6CE;
+    border: solid 1px green;
+    border-radius: 0.2em;
+  }
+  #Credits{
+      margin-bottom: 10px;
+  }

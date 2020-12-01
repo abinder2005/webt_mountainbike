@@ -1,0 +1,59 @@
+
+h1{
+    color: black;
+    text-align: center;
+    font-size: xx-large;
+}
+h2{
+    text-align: center;
+    color: darkblue;
+}
+#catchfrase{
+    font-size: large;
+    text-align: center;
+    color: darkslategray;
+
+    
+}
+
+#headwrapper{
+    width: 1000px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: white;
+
+}
+
+#wrapper{
+width: 1000px;
+height: 2800px;
+margin-left: auto;
+margin-right: auto;
+
+background-color: white;
+
+}
+
+.image
+{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: violet;
+}
+a:hover{
+    color: lightblue;
+}
+
+
+

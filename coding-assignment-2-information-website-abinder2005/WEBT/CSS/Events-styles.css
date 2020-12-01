@@ -1,0 +1,52 @@
+h1{
+    color: red;
+    text-align: center;
+    font-size: xx-large;
+}
+h2{
+    text-align: center;
+    color: darkblue;
+}
+#catchfrase{
+    font-size: large;
+    text-align: center;
+    color: darkslategray;
+
+    
+}
+
+#headwrapper{
+    width: 1400px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: white;
+
+}
+
+#wrapper{
+width: 1400px;
+height: 1600px;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+
+background-color: white;
+
+}
+
+.image
+{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+body{
+    background-image: url("../pictures/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+

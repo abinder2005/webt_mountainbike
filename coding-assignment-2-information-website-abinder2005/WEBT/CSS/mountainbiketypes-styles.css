@@ -1,0 +1,61 @@
+#upperBox{
+    width: 1890px; /*1911*/
+    height: 100px; /*100*/
+    margin-left: -9px;
+    margin-right: -9px;
+    border: 5px outset black;
+    background-color: black;    
+    text-align: center;
+    opacity: 0.9;
+}
+#upperBoxHeadline{
+    color: white;
+    text-decoration: underline; 
+}
+.image{
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+#sectionOverview{
+    text-align: center;
+}
+#sectionCrossCountry{
+    font-size: large;
+}
+p{
+    font-size: large;
+}
+a:link {
+    color: blue;
+}
+a:visited {
+    color: violet;
+}
+a:hover{
+    color: lightblue;
+}
+.crossCountryImage{
+    position: absolute;
+    right: 100px;
+}
+.allMountainImage{
+    position: absolute;
+    right: 100px;
+}
+.enduroImage{
+    position: absolute;
+    right: 100px;
+}
+.downhillImage{
+    position: absolute;
+    right: 100px;
+}
+.dirtJumpImage{
+    position: absolute;
+    right: 100px;
+}
+.trialImage{
+    position: absolute;
+    right: 100px;
+}

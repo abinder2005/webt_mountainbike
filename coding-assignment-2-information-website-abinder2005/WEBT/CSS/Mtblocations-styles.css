@@ -1,0 +1,51 @@
+body {
+    background-image: url("../pictures/hintergrund.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    color: black;
+    text-align: center;
+    font-size: xx-large;
+}
+h2{
+    text-align: center;
+    color: darkblue;
+}
+#catchfrase{
+    font-size: large;
+    text-align: center;
+    color: darkslategray;
+
+    
+}
+
+#wrapper{
+width: 1000px;
+height: 2800px;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+background-color: white;
+
+}
+
+.image
+{
+    width: 280px;
+    margin-left: 100px;
+    
+}
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: violet;
+}
+a:hover{
+    color: lightblue;
+}
+
+
