@@ -55,5 +55,9 @@ a:hover{
     color: lightblue;
 }
 
-
+body{
+    background-image: url("../pictures/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
