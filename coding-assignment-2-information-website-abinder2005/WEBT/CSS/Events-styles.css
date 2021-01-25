@@ -11,7 +11,7 @@ h2{
     font-size: large;
     text-align: center;
     color: darkslategray;
-
+    border-radius: 18px;
     
 }
 
@@ -22,18 +22,19 @@ h2{
     margin-right: auto;
     text-align: center;
     background-color: white;
+    border-radius: 18px;
 
 }
 
 #wrapper{
 width: 1400px;
-height: 1600px;
+height: 1800px;
 margin-left: auto;
 margin-right: auto;
 text-align: center;
 
 background-color: white;
-
+border-radius: 18px;
 }
 
 .image
@@ -48,5 +49,7 @@ body{
     background-image: url("../pictures/background.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 

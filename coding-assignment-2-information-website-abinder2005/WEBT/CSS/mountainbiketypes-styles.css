@@ -1,3 +1,6 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
 #upperBox{
     width: 1890px; /*1911*/
     height: 100px; /*100*/
@@ -7,10 +10,12 @@
     background-color: black;    
     text-align: center;
     opacity: 0.9;
+    border-radius: 18px;
 }
 #upperBoxHeadline{
     color: white;
     text-decoration: underline; 
+    border-radius: 18px;
 }
 .image{
     display: flex; 
